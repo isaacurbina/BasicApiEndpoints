@@ -1,0 +1,6 @@
+@BasicApiEndpoints_HostAddress = http://localhost:5091
+
+GET {{BasicApiEndpoints_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
