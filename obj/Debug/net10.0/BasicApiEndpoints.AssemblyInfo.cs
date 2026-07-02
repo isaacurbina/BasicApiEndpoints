@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BasicApiEndpoints")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45ea872acd1270d19eaa1972909ffb3dd5f66e0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5c4b77ff0b4930005158950b5ed3ad6bec05eeb")]
 [assembly: System.Reflection.AssemblyProductAttribute("BasicApiEndpoints")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BasicApiEndpoints")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
